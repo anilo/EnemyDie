@@ -1,0 +1,10 @@
+/.DS_Store
+Library
+Temp
+*.csproj
+*.sln
+*.userprefs
+*.pidb
+*.unityproj
+
+
